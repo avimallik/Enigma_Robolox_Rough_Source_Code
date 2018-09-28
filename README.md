@@ -3,5 +3,5 @@ Enigma Robolox is one kind of Embedded system. it is a combined module. modules 
 <br><br>
 <b>Author : Arunav Mallik Avi (ARM AVI)</b><br>
 Department of Computer Science & Engineering,<br> National University, Bangladesh<br><br>
-<b>(Note : The comlete source will be published after project testing for some plagiarism issues)</b>
+<b>(Note : The comlete source code will be published after project testing for some plagiarism issues)</b>
 
